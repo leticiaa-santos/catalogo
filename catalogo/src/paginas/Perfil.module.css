@@ -1,0 +1,15 @@
+.conteiner{
+    position: relative;
+    height: 600px;
+    margin: 30px;
+    border-radius: 5px;
+    color: #141414;
+    text-align: center;
+}
+
+.titulo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
